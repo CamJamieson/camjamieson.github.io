@@ -23,23 +23,18 @@
 
     #### Time Log
 
-    | Action | Start Time | End Time | Total Time (in Mins) |
-    |--------|------------|----------|----------------------|
-    |Wireframe |  4:35pm  | 5:25pm   | 50                   |
-    |Create Files|5:28pm  | 5:30pm   | 2                    |
-    |Setup Verson Control |5:31pm    |          |           |
-    |        |            |          |                      |
-    |        |            |          |                      |
-    |        |            |          |                      |
-    |        |            |          |                      |
-    |        |            |          |                      |
-    |        |            |          |                      |
-    |        |            |          |                      |
-    |        |            |          |                      |
-    |        |            |          |                      |
-    |        |            |          |                      |
-    |        |            |          |                      |
-    |        |            |          |                      |
+    | Action              | Start Time | End Time | Total Time (in Mins) |
+    |---------------------|------------|----------|----------------------|
+    |Wireframe            | 4:35pm     | 5:25pm   | 50                   |
+    |Create Files         |5:28pm      | 5:30pm   | 2                    |
+    |Setup Verson Control | 5:31pm     | 5:47pm   | 16                   |
+    |Build Home Page HTML | 5:47pm     | 6:00pm   | 13                   |
+    |                     |            |          |                      |
+    |                     |            |          |                      |
+    |                     |            |          |                      |
+    |                     |            |          |                      |
+    |                     |            |          |                      |
+    |                     |            |          |                      |
 
 
 ### Wireframe
