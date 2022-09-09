@@ -7,8 +7,6 @@ h1{margin: 0}
 nav{
     background-color: black;
     color: white;
-    
-    
     position: fixed;
     width: 100% ;
     display: flex;
@@ -26,3 +24,43 @@ nav li{
     display: inline;
     padding-right: 1.25rem;
 }
+
+main {
+    display: flex;
+    position: relative;
+    top: 3.125rem;
+    
+}
+
+.left-sidebar {
+    width:30%;
+    background-color: #592DEC;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 95vh;
+    position: fixed;
+    
+    
+
+}
+.left-sidebar h3 {
+    text-align: center;
+    background-color: #F8D067;
+    padding: 1rem 0rem;
+    width: 50%;
+    
+
+}
+
+.left-sidebar p {
+    width: 80%;
+    background-color: white;
+    border-radius: 5%;
+    padding: 5%
+}
+
+.main-section {
+    width: 70%;
+}
+
