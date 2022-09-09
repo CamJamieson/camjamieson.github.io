@@ -29,7 +29,7 @@
     |Create Files         |5:28pm      | 5:30pm   | 2                    |
     |Setup Verson Control | 5:31pm     | 5:47pm   | 16                   |
     |Build Home Page HTML | 5:47pm     | 6:00pm   | 13                   |
-    |Style Content        | 6:01pm     |          |                      |
+    |Style Content "NAV"  | 6:40pm     | 7:02pm   | 22                   |
     |                     |            |          |                      |
     |                     |            |          |                      |
     |                     |            |          |                      |

@@ -1,1 +1,28 @@
-html{font-size: 60px;}
+html{font-size: 16px;
+    font-family: Helvetica, Arial, sans-serif}
+body{margin: 0}
+h1{margin: 0}
+
+
+nav{
+    background-color: black;
+    color: white;
+    
+    
+    position: fixed;
+    width: 100% ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ 
+}
+
+nav h1{
+    padding-left: 1.25rem;
+}
+
+
+nav li{
+    display: inline;
+    padding-right: 1.25rem;
+}
