@@ -19,7 +19,7 @@
     |  Completion Time  | Hours   |
     |   ----------------|---------|
     | Estimated         | 4.5     |
-    | Actual            | Unknown |
+    | Actual            | 6       |
 
     #### Time Log
 
@@ -33,8 +33,8 @@
     |Style Content Complete| 7:16pm     | 10:26pm  | 106                 |
     |Make it Interative   | 10:29pm     | 12:37am  | 128                 |
     |Make it Responsive   | 12:44pm     | 12:58pm  | 14                  |
-    |Publish to web       |            |          |                      |
-    |                     |            |          |                      |
+    |Publish to web       | 1:00pm     | 1:10pm    | 10                  |
+    | Total Time          |            |          |  6 Hours             |
 
 
 ### Wireframe
@@ -45,7 +45,8 @@
     - Picture and Title for Each Project
 - Inspiration: https://dribbble.com/shots/19111811-Personal-Portfolio-Landing-Page?utm_source=Clipboard_Shot&utm_campaign=taqwah_digital&utm_content=Personal%20Portfolio%20Landing%20Page&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=taqwah_digital&utm_content=Personal%20Portfolio%20Landing%20Page&utm_medium=Social_Share
 - Inspiration 2: https://priceless-kepler-06d70c.netlify.app/
-
+- Screenshot 1: ![screenshot1](resources/images/Home.jpg)
+- Screenshot 2: ![screenshot2](resources/images/Web1920–1.jpg)
 ### Create Files and Deploy it Locally
 - Create following files
     - index.html
