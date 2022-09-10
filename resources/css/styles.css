@@ -277,8 +277,20 @@ footer h6{
 
 }
 
-@media only screen and (max-width: 500px){
-    html{
-        font-size: 30px;
+
+
+
+@media only screen and (max-width: 619px){
+    main{
+        top:6.88rem;
     }
+    .project-container{
+        min-width: 70%;
+        padding: 1rem;
+    }
+    .email-container{
+        padding: .25rem;
+    }
+
+  
 }
