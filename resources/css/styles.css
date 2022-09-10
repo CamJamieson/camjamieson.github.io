@@ -239,3 +239,9 @@ footer h6{
     justify-content: center;
     
 }
+
+#icon-placeholder {
+    display: inline;
+    font-size: 3rem;
+    padding: 1rem;
+}
