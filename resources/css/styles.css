@@ -42,9 +42,7 @@ nav li{
 nav a {
     color: white;
 }
-a:visited {
-    color: #F8D067;
-}
+
 
 a:hover{
     color:lightgray;
