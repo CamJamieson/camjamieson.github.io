@@ -31,7 +31,7 @@
     |Build Home Page HTML | 5:47pm     | 6:00pm   | 13                   |
     |Style Content "NAV"  | 6:40pm     | 7:02pm   | 22                   |
     |Style Content Complete| 7:16pm     | 10:26pm  | 106                 |
-    |                     |            |          |                      |
+    |Make it Interative   | 10:29pm     |          |                      |
     |                     |            |          |                      |
     |                     |            |          |                      |
     |                     |            |          |                      |
@@ -68,7 +68,30 @@
 ### Style the Content
 ### Make it interactive
 - Make a Javascript ReCaptcha verification tool to reveal my email address
-- should have to click on the icon matching the verification request twice to reveal
+- should have to click on the icon matching the verification request twice to reveal<br>
+
+
+Icon List:
+
+|Icon   | HTML                                         |
+|-------|----------------------------------------------|
+| House | `<i class="fa-sharp fa-solid fa-house"></i>` |
+| Phone | `<i class="fa-sharp fa-solid fa-phone"></i>` |
+| Heart | `<i class="fa-sharp fa-solid fa-heart"></i>` |
+| Car   | `<i class="fa-sharp fa-solid fa-car"></i>`   |
+| Camera | `<i class="fa-sharp fa-solid fa-camera"></i>` |
+| Plane  | `<i class="fa-sharp fa-solid fa-plane"></i>` |
+| Key   | `<i class="fa-sharp fa-solid fa-key"></i>`    |
+| Campfire | `<i class="fa-sharp fa-solid fa-campfire"></i>` |
+| Anchor | `<i class="fa-sharp fa-solid fa-anchor"></i>` |
+| UFO | `<i class="fa-sharp fa-solid fa-ufo"></i>` |
+| Globe | `<i class="fa-sharp fa-solid fa-globe-stand"></i>` |
+| Robot | `<i class="fa-sharp fa-solid fa-robot"></i>` |
+| Narwhal | `<i class="fa-sharp fa-solid fa-narwhal"></i>` |
+| Ghost | `<i class="fa-sharp fa-solid fa-ghost"></i>` |
+
+
+
 ### Make it responsive
 - Create Breakpoints for Phone, Tablet, and laptop
 ### Publish to the Web
