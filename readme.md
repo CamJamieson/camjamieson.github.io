@@ -30,7 +30,7 @@
     |Setup Verson Control | 5:31pm     | 5:47pm   | 16                   |
     |Build Home Page HTML | 5:47pm     | 6:00pm   | 13                   |
     |Style Content "NAV"  | 6:40pm     | 7:02pm   | 22                   |
-    |Style Content        | 7:16pm     |          |                      |
+    |Style Content Complete| 7:16pm     | 10:26pm  | 106                 |
     |                     |            |          |                      |
     |                     |            |          |                      |
     |                     |            |          |                      |
