@@ -32,8 +32,8 @@
     |Style Content "NAV"  | 6:40pm     | 7:02pm   | 22                   |
     |Style Content Complete| 7:16pm     | 10:26pm  | 106                 |
     |Make it Interative   | 10:29pm     | 12:37am  | 128                 |
-    |                     |            |          |                      |
-    |                     |            |          |                      |
+    |Make it Responsive   | 12:44pm     | 12:58pm  | 14                  |
+    |Publish to web       |            |          |                      |
     |                     |            |          |                      |
 
 

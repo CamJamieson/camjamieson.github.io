@@ -100,7 +100,7 @@ function myFunction(paramPassed){
 
 function myFunction2(paramPassed2){
      if(paramPassed2 === secondIcon){
-        box.innerHTML = "Hey there, my email is: camjamesj"+"@"+"gmail.com";
+        box.innerHTML = "<h5>Hey there, my email is: camjamesj"+"@"+"gmail.com</h5>";
         icons.innerHTML = " ";
      } else{box.innerHTML = "ERROR, CAPTCHA FAILED. Refresh Page to try again.";
      icons.innerHTML = " ";}
